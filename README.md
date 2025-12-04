@@ -1,32 +1,57 @@
-# 📞 Página de Contatos --- Projeto Front-End
+# 📞 Página de Contatos --- Projeto de Portfólio
 
-Este projeto consiste em uma **página de contatos responsiva**,
-desenvolvida em HTML e CSS, com ícones do Font Awesome. A página
-apresenta informações de contato, links diretos (telefone, WhatsApp,
-e-mail), localização e um formulário funcional para envio de mensagens.
+Este repositório faz parte do meu **portfólio de estudos em
+desenvolvimento web**.\
+O projeto consiste em uma **página de contatos**, criada para praticar
+HTML, CSS e a organização de um layout moderno e limpo.
+
+Ainda estou evoluindo meus conhecimentos, então novas versões e
+melhorias serão adicionadas em breve --- especialmente a parte
+**responsiva** da página.
 
 ------------------------------------------------------------------------
 
-## 🚀 Funcionalidades
+## 🚀 Sobre o Projeto
 
--   📱 **Layout responsivo**\
--   📞 **Cartões de contato**: Telefone, e-mail, localização e WhatsApp\
--   📝 **Formulário de contato** com validações básicas\
--   🌐 **Links de redes sociais** (Twitter, Facebook, LinkedIn e
-    Instagram)\
--   🧭 **Menu de navegação** com estado de página ativa\
--   🎨 **Design moderno** com uso de ícones e estrutura organizada
+Esta página apresenta:
+
+-   Um **menu de navegação** simples\
+-   Uma **seção de título** com descrição\
+-   Cartões de contato para:
+    -   Telefone\
+    -   Localização\
+    -   E-mail\
+    -   WhatsApp\
+-   Formulário para envio de mensagem\
+-   Rodapé com links e organização visual
+
+O objetivo principal é praticar **estruturação de páginas**, organização
+de conteúdo, semântica HTML e estilização com CSS.
+
+------------------------------------------------------------------------
+
+## 📚 O que estou aprendendo
+
+Atualmente estou estudando:
+
+✔️ **HTML5**\
+✔️ **CSS3**\
+✔️ **JavaScript (iniciante)**\
+✔️ **React (iniciante)**\
+✔️ **Boas práticas de organização de código**\
+✔️ **Como montar meu primeiro portfólio no GitHub**
+
+🔧 **Responsividade ainda não está implementada**\
+O projeto é a versão inicial e será atualizado conforme eu avançar nos
+estudos.
 
 ------------------------------------------------------------------------
 
 ## 🛠 Tecnologias Utilizadas
 
--   **HTML5**
--   **CSS3**
--   **Font Awesome** (ícones)
--   **Google Fonts** (se aplicável na sua folha de estilo)
--   **Responsividade com Flexbox / Grid** (dependendo do CSS em
-    `src/css/imports.css`)
+-   HTML\
+-   CSS\
+-   Font Awesome (ícones)
 
 ------------------------------------------------------------------------
 
@@ -43,51 +68,27 @@ e-mail), localização e um formulário funcional para envio de mensagens.
 
 ------------------------------------------------------------------------
 
-## 📸 Prévia da Página (opcional)
+## 📝 Como visualizar
 
-> Se quiser, posso gerar uma imagem de prévia para incluir aqui.
+Basta abrir o arquivo:
 
-------------------------------------------------------------------------
+    index.html
 
-## ▶️ Como Executar
-
-1.  Baixe ou clone o repositório:
-
-    ``` bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    ```
-
-2.  Abra o arquivo:
-
-        index.html
-
-3.  Execute em qualquer navegador moderno.
-
-> Não é necessário instalar nada --- é um projeto 100% front-end.
+em qualquer navegador moderno.
 
 ------------------------------------------------------------------------
 
-## 📧 Contatos no Projeto
+## 🔧 Melhorias Futuras
 
-### Cartões de contato incluem:
-
--   Telefone: `(81) 99999-9999`\
--   Localização: Rua Exemplo, 123 -- Cidade\
--   E-mail: `email@gmail.com`\
--   WhatsApp direto via API
+-   [ ] Implementar responsividade (mobile e tablet)\
+-   [ ] Melhorar animações e interações\
+-   [ ] Criar versão com JavaScript\
+-   [ ] Criar backend para processamento real do formulário
 
 ------------------------------------------------------------------------
 
-## 🧭 Melhorias Futuras (Sugestões)
+## 🎯 Objetivo do Projeto
 
--   [ ] Validação avançada do formulário\
--   [ ] Integração com backend (PHP, Node.js, Firebase etc.)\
--   [ ] Tema claro/escuro\
--   [ ] Animações suaves no hover e scroll
-
-------------------------------------------------------------------------
-
-## 📄 Licença
-
-Este projeto pode ter a licença que você desejar (MIT recomendado).\
-Se quiser, posso adicionar uma LICENSE automaticamente.
+Este projeto faz parte da construção do meu portfólio.\
+Ele representa minha evolução como estudante de **Análise e
+Desenvolvimento de Sistemas** e iniciante no **desenvolvimento web**.
