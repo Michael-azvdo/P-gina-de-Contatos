@@ -1,4 +1,4 @@
-# 📞 Página de Contatos 
+# 📞 Página de Contatos ---
 
 Este repositório faz parte do meu **portfólio de estudos em
 desenvolvimento web**.\
